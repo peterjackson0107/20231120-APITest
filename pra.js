@@ -10,4 +10,4 @@ fetch("https://api.data.metro.tokyo.lg.jp/v1/CulturalProperty?limit=1000")
     console.log(data)
   })
 
-demo.innerText=this.data;
+document.getElementById("demo").innerHTML=this.data;
