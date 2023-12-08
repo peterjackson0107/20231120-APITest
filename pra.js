@@ -9,3 +9,5 @@ fetch("https://api.data.metro.tokyo.lg.jp/v1/CulturalProperty?limit=1000")
     obj1 = obj[0];
     console.log(data)
   })
+
+demo.innerText=this.data;
