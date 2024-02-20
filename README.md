@@ -2,7 +2,7 @@
 ![image](https://github.com/peterjackson0107/20231120APITest/assets/151004314/c672a6d7-43b9-4ee6-9d38-d40fa905b4ef)
 
 ## 網址
-https://peterjackson0107.github.io/20231120APITest/
+https://peterjackson0107.github.io/20231120-APITest/
 
 ## 專案技術
 - HTML
